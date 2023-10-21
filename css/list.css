@@ -1,0 +1,26 @@
+.list-container{
+    overflow: auto;
+    white-space: nowrap;
+    margin-left:300px;
+    
+}
+
+
+ .list-container button{
+   padding: 10px 20px ;
+   font-family: Arial;
+   font-size: 23px;
+   margin-left: 20px;
+   background-color: rgb(231, 227, 227);
+   border: none;
+   border-radius: 10px;
+   cursor: pointer;
+   font-weight: solid;
+}
+.list-container button:hover{
+    background-color: rgb(223, 220, 220);
+}
+.list-container button:active{
+    background-color: black;
+    color: white;
+}
