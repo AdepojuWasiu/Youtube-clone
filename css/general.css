@@ -97,7 +97,7 @@ body{
         width:200px !important;
         display:flex !important;
         align-items: center !important;
-        justify-content: left !important;
+        justify-content: center !important;
         flex-shrink: 0 !important;
         margin-left: 0px !important;
     }
@@ -105,7 +105,7 @@ body{
         display: none !important;
     }
     .left-head{
-        margin-right: 0px !important;
+        margin-right: 10px !important;
         margin-left:  0px !important;
     }
     .youtube-logo{
