@@ -110,13 +110,13 @@ body{
         margin-left:  0px !important;
     }
     .youtube-logo{
-        width:80px !important;
+        width:90px !important;
         margin-left: 0px;
     }
     .Ng-container{
     position:absolute;
     top:-8px;
-    right: 10px !important ;
+    right: -3px !important ;
     color: gray;
     font-size: 10px !important;
     font-weight: bold;
